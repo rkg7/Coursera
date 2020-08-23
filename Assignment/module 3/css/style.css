@@ -36,6 +36,7 @@ h1
 }
 .row div
 {
+	background-color: grey;
 	position: relative;
 	float: left;
 	margin-bottom: 30px;
@@ -70,4 +71,8 @@ h1
 	color: brown;	
 }
 
+.col-xs-12 a
+{
+	color: white;
+}
 
